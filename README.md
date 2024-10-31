@@ -1,7 +1,7 @@
-Learn Accessibility by Building a Quiz
+#Learn Accessibility by Building a Quiz
 This project is part of the FreeCodeCamp curriculum, aimed at understanding and implementing web accessibility best practices. It involves creating a simple, accessible quiz web application that meets Web Content Accessibility Guidelines (WCAG) standards.
 
-Project Overview
+#Project Overview
 This project helps solidify concepts of accessibility, focusing on:
 
 Making content accessible to all users, including those with disabilities.
@@ -16,7 +16,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/Rakib404H/learning-accessibility-by-building-a-quiz.git
+git clone [https://github.com/yourusername/Learn-Accessibility-Quiz.git](https://github.com/Rakib404H/learning-accessibility-by-building-a-quiz.git)
 Open index.html in your preferred browser.
 Usage
 Start the quiz by navigating through each question using the keyboard or mouse.
