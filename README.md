@@ -1,40 +1,31 @@
-#Learn Accessibility by Building a Quiz
+# Learn Accessibility by Building a Quiz
 
-This project is part of the FreeCodeCamp curriculum, aimed at understanding and implementing web accessibility best practices. It involves creating a simple, accessible quiz web application that meets Web Content Accessibility Guidelines (WCAG) standards.
+This project is part of FreeCodeCamp's curriculum focused on learning accessibility. It demonstrates how to create a quiz that is accessible to all users, including those who use assistive technologies.
 
+## Project Overview
 
-#Project Overview
+The main goals of this project are to:
+- Develop a quiz using HTML and CSS
+- Apply accessibility principles to ensure the quiz is usable by a wide audience
+- Gain practical experience in accessible web design
 
-This project helps solidify concepts of accessibility, focusing on:
+## Features
 
+- **Semantic HTML**: The project uses semantic elements to improve the structure and meaning of the HTML code.
+- **Accessible Labels**: Each input element has a label for screen readers and other assistive devices.
+- **Keyboard Navigation**: The quiz is designed to be fully navigable using only a keyboard.
+- **Contrast Ratios**: Ensures that text has sufficient contrast against background colors for readability.
+- **ARIA Roles**: Uses ARIA attributes where necessary to improve accessibility for assistive technologies.
 
-Making content accessible to all users, including those with disabilities.
-Using semantic HTML to structure content for screen readers.
-Ensuring color contrast and navigability through keyboard inputs.
-Features
-Accessible Navigation: Keyboard-friendly navigation throughout the quiz.
-Screen Reader Compatibility: Semantic HTML elements to ensure smooth reading by screen readers.
-High-Contrast Design: A color scheme that is readable and compliant with accessibility guidelines.
-Interactive Form Elements: Labels and input fields designed with accessibility in mind.
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/Rakib404H/learning-accessibility-by-building-a-quiz.git
-Open index.html in your preferred browser.
-Usage
-Start the quiz by navigating through each question using the keyboard or mouse.
-Select your answer for each question and submit to see the results.
-Use screen readers and accessibility testing tools to experience and validate the accessibility features.
-Project Goals
-This project is designed to:
+## Technologies Used
 
-Enhance awareness of accessibility in web design.
-Practice creating interactive components that are usable for all users.
-Build a strong foundation in HTML semantics, ARIA roles, and accessible form inputs.
-Technologies Used
-HTML5
-CSS3
-JavaScript (for quiz functionality)
-License
-This project is open source and available under the MIT License.
+- HTML5
+- CSS3
+
+## Getting Started
+
+To view the quiz locally, follow these steps:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Rakib404H/learning-accessibility-by-building-a-quiz.git
